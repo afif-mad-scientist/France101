@@ -72,7 +72,7 @@ Speaking of luggage, you should buy a decent big suitcase, it you dont have one.
 ## Financial Planning
 In this period, be careful, if you dont plan it well, you will find yourself spending a lot of money in things you may not really need. So be wise into choosing what to buy. Yes you will spend a decent amount of money before you go, but try to make it into use, into essential stuff, that allows you to spend less money in France. Bare in mind that you need money to take with you too, so plan it well. 
 
->[!hint] A good rule of thumb
+>[!TIP] A good rule of thumb
 >Make in your mind that you gonna leave your home in just two months, so if you gonna buy something and you gonna leave it, than there is no need to buy it
 
 ## Financial Planning
@@ -94,7 +94,7 @@ The SIMcard you should buy at minimum a week before your arrival, and put the ad
 
 In case you got a phone that has eSIM in it, make sure to choose an offer from `Bouygues` or `Free` that has eSIM. in this case you wont need the SIMcard, and you will be able to use it the second you arrive without any issue.  The down side is that these two companies they rarely have good offers. 
 
-> [!hint]
+> [!TIP]
 > You are not obliged to buy the eSIM a week before, you can buy it the day before no problem.
 
 > [!warning]
