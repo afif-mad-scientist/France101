@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>France 101</title>
-    <link>https://example.org/</link>
-    <description>Recent content on France 101</description>
-    <generator>Hugo -- 0.147.9</generator>
+    <link>https://example.org/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://example.org/posts/preparation-for-the-trip/</link>
+      <title>Posts</title>
+      <link>https://example.org/posts/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/preparation-for-the-trip/</guid>
-      <description>&lt;p&gt;Before arriving to France you need to prepare for your arrival, this will make your integration here easier. Getting ready mentally, physically, financially, and administratively is something you shouldn&amp;rsquo;t skip or ignore.&lt;/p&gt;
-&lt;p&gt;I tried to to summarize the important things for you, to help you figure out where to start in this preparation. You may notice that I insisted and put a lot of effort into the mental and emotional preparation, this is because it is really important and you should focus on it, without it you wont be able to do the rest.&lt;/p&gt;</description>
+      <guid>https://example.org/posts/index.html</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
