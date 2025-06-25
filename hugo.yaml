@@ -4,7 +4,9 @@ title: France 101
 
 theme: hugo-theme-relearn
 params:
-  themeVariant: zen-light
+  themeVariant:
+  - zen-light
+  - zen-dark
 caches:
   images:
     dir: :cacheDir/images
