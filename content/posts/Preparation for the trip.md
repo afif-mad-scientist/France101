@@ -1,7 +1,8 @@
 ---
 title: Preparation for the trip
-date: 22-06-2025
+date: 2025-06-22
 ---
+
 >[!SUMMARY] Table of Contents
 >    - [[Preparation for the trip#Why you should prepare ?|Why you should prepare ?]]
 >    - [[Preparation for the trip#Mental & Emotional Preparation|Mental & Emotional Preparation]]
