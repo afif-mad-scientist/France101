@@ -3,6 +3,8 @@ languageCode: en-us
 title: France 101
 
 theme: hugo-theme-relearn
+params:
+  themeVariant: zen-light
 caches:
   images:
     dir: :cacheDir/images
