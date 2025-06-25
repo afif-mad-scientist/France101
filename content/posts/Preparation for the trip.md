@@ -1,14 +1,42 @@
 ---
-date created: Saturday, February 11th 2023, 2:21:17 pm
-date modified: Monday, February 13th 2023, 3:19:43 pm
-title: My title
-cssclasses:
-  - wide-page
-banner: "https://mir-s3-cdn-cf.behance.net/project_modules/fs/7e3d5e81488145.5d050548d72a7.jpg"
-banner_x: 0.5
-banner_y: 0.34
-banner_lock: true
+title: Preparation for the trip
+date: 22-06-2025
 ---
+>[!SUMMARY] Table of Contents
+>    - [[Preparation for the trip#Why you should prepare ?|Why you should prepare ?]]
+>    - [[Preparation for the trip#Mental & Emotional Preparation|Mental & Emotional Preparation]]
+>        - [[Preparation for the trip#Why Self-Confidence is Critical? |Why Self-Confidence is Critical? ]]
+>        - [[Preparation for the trip#Preparation|Preparation]]
+>    - [[Preparation for the trip#Physical Preparation|Physical Preparation]]
+>    - [[Preparation for the trip#Clothing|Clothing]]
+>    - [[Preparation for the trip#Financial Planning|Financial Planning]]
+>    - [[Preparation for the trip#Financial Planning|Financial Planning]]
+>    - [[Preparation for the trip#Administration|Administration]]
+>        - [[Preparation for the trip#1st way |1st way ]]
+>        - [[Preparation for the trip#2nd way|2nd way]]
+>    - [[Preparation for the trip#Plane ticket|Plane ticket]]
+>    - [[Preparation for the trip#Organisation|Organisation]]
+>- [[Preparation for the trip#TL;DR|TL;DR]]
+>    - [[Preparation for the trip#🧭 1. Why You Must Prepare|🧭 1. Why You Must Prepare]]
+>    - [[Preparation for the trip#🧠 2. Mental & Emotional Preparation|🧠 2. Mental & Emotional Preparation]]
+>        - [[Preparation for the trip#✅ 2.1. Build Self-Confidence|✅ 2.1. Build Self-Confidence]]
+>        - [[Preparation for the trip#🌍 2.2. Expect Cultural Shock|🌍 2.2. Expect Cultural Shock]]
+>        - [[Preparation for the trip#🧩 2.3. Social Life: The Maze|🧩 2.3. Social Life: The Maze]]
+>        - [[Preparation for the trip#🧱 2.4. Accept Responsibility|🧱 2.4. Accept Responsibility]]
+>        - [[Preparation for the trip#🛑 2.5. Be Wise and Cautious|🛑 2.5. Be Wise and Cautious]]
+>        - [[Preparation for the trip#🧕 2.6. Be Ready for Discrimination|🧕 2.6. Be Ready for Discrimination]]
+>        - [[Preparation for the trip#🧭 2.7. Protect Your Values|🧭 2.7. Protect Your Values]]
+>    - [[Preparation for the trip#💪 3. Physical Preparation|💪 3. Physical Preparation]]
+>        - [[Preparation for the trip#🏥 3.1. Health|🏥 3.1. Health]]
+>        - [[Preparation for the trip#🧣 3.2. Clothing|🧣 3.2. Clothing]]
+>    - [[Preparation for the trip#💰 4. Financial Planning|💰 4. Financial Planning]]
+>        - [[Preparation for the trip#📦 4.1. Smart Spending|📦 4.1. Smart Spending]]
+>        - [[Preparation for the trip#📱 4.2. Phone & SIM Card|📱 4.2. Phone & SIM Card]]
+>    - [[Preparation for the trip#🗃️ 5. Administrative Preparation|🗃️ 5. Administrative Preparation]]
+>        - [[Preparation for the trip#🗂️ 5.1. Documents|🗂️ 5.1. Documents]]
+>        - [[Preparation for the trip#🚇 5.2. Transport Pass (Navigo Imagine R)|🚇 5.2. Transport Pass (Navigo Imagine R)]]
+>    - [[Preparation for the trip#✈️ 6. Plane Ticket|✈️ 6. Plane Ticket]]
+>    - [[Preparation for the trip#🗓️ 7. Personal Organization|🗓️ 7. Personal Organization]]
 
 Before arriving to France you need to prepare for your arrival, this will make your integration here easier. Getting ready mentally, physically, financially, and administratively is something you shouldn't skip or ignore. 
 
@@ -18,10 +46,10 @@ I tried to to summarize the important things for you, to help you figure out whe
 **Preparation is not optional**, it should start as soon as possible. If you wait until the last moment, you’ll feel overwhelmed as the departure date approaches, and worse you will feel lost once you arrive in France.
 
 ## Mental & Emotional Preparation
-First you should thank God for the achievements, all the gratitude goes to him. Second, you should be proud of yourself, you made effort, struggled, and you earned your success. It isn't that you got lucky, but it is a reward for all your hard work. So be proud, and have faithb in yourself. 
+First, you should thank God for the achievements, all the gratitude goes to him. Second, you should be proud of yourself, you made effort, struggled, and you earned your success. It isn't that you got lucky, but it is a reward for all your hard work. So be proud, and have faith in yourself. 
 
 ### Why Self-Confidence is Critical? 
-All this journey you did, in fact is just the begining and the easier part. The real game is starting now. And you should believe since you’ve made it this far, you can definitely handle what’s coming. Don’t be scared, be ready.
+All this journey you did, in fact, is just the beginning and the easier part. The real game is starting now. And you should believe since you’ve made it this far, you can definitely handle what’s coming. Don’t be scared, be ready.
 
 ### Preparation
 France is another country, a different lifestyle, different people, different mentality. You should prepare yourself that you will see things you never saw, that you will hear things you never heard, that you will feel things you never felt. So prepare yourself not to let the cultural shock catch you off guard, because believe me you will face it, like everyone did. 
@@ -39,7 +67,7 @@ Another thing, in France you will be obliged to carry a huge amount of Responsib
 
 Also, in France you will learn a lot of life lessons, you will grow up by 10 years in just one. To learn the lessons, there two ways, by thinking and reflecting, or by making mistakes and experience. The second path is more painful. Try your best to avoid it because it could cost you a lot if you are not careful. 
 
-Speaking of careful, Before you make any decision, before you make any action, pause twice, breath twice, think twice, step back twice, think of all the possible ways it could go wrong, think of all the possible outcomes, then choose wisely.
+Speaking of careful, Before you make any decision, before you make any action, pause twice, breathe twice, think twice, step back twice, think of all the possible ways it could go wrong, think of all the possible outcomes, then choose wisely.
 
 another thing you want to prepare yourself of is about Racism. Be prepared, put in your head that you are a foreigner in a racist country, put in your head that you will be in an Islamophobic country, put in your head that you will be wearing a veil in an Islamophobic country. prepare yourself to not get hit by the sad reality when you are here. 
 
@@ -129,4 +157,121 @@ Start planning your departure from now, make check lists, to not forget anything
 Organise your files, your clothes, your stuff in sections, put aside everything you not planing to take. 
 A precious advice, prepare your suitcase a week before you go, you will thank me later. because while doing so, you will realise that you forgot things, and you will avoid a huge stress the day of departure. (I wish i did that)
 
-![[Pasted image 20250625214256.png]]
+---
+# TL;DR
+
+---
+
+## 🧭 1. Why You Must Prepare
+
+- Preparation is **not optional** — start as early as possible.
+- Waiting until the last minute leads to stress and confusion once in France.
+- This guide isn’t meant to scare you, but to help you face reality **with clarity and strength**.
+
+---
+
+## 🧠 2. Mental & Emotional Preparation
+
+### ✅ 2.1. Build Self-Confidence
+
+- Thank God for your achievements.
+- Be proud of your efforts — you earned this, it’s not luck.
+- The journey ahead is tougher, but if you made it this far, **you can go further**.
+
+### 🌍 2.2. Expect Cultural Shock
+
+- Prepare to see, hear, and feel things that are completely new.
+- You’ll be **alone**, without your family. You’ll feel homesick — it’s normal.
+
+### 🧩 2.3. Social Life: The Maze
+
+- People change — even those close to you.
+- Be cautious. **Don’t blindly trust** anyone, and stay **true to yourself**.
+- Help others, but don’t sacrifice yourself — **you come first**. This is the maze.
+
+### 🧱 2.4. Accept Responsibility
+
+- You’ll be fully responsible: for your well-being, money, safety, decisions.
+- You’ll grow up fast. Learn by reflection, not by painful mistakes.
+
+### 🛑 2.5. Be Wise and Cautious
+
+- Before every action: **pause twice, think twice, analyze outcomes**, then decide.
+
+### 🧕 2.6. Be Ready for Discrimination
+
+- Be mentally prepared for **racism and Islamophobia** in France.
+- Strengthen your **religious knowledge (`ʿaqīda`)** now. Many people lose themselves abroad.
+- As a hijabi girl, you’re an **ambassador** of Islam — learn how to answer questions clearly and represent well.
+
+### 🧭 2.7. Protect Your Values
+
+- Your environment will influence you — stay **loyal to your principles**.
+- Even small, "harmless" actions can drag you off-track — **trust your inner feeling**.
+- When you feel down, overwhelmed, or lost, remember: **God never abandons you**.
+
+---
+
+## 💪 3. Physical Preparation
+
+### 🏥 3.1. Health
+
+- Fix any **medical issues** before leaving (dentist, glasses, etc.).
+- Pack a **basic medicine kit**: Paracetamol, Smecta, painkillers, etc.
+- Take **extra glasses** if needed — anything can happen.
+
+### 🧣 3.2. Clothing
+
+- Winters in France are **cold** — prepare warm clothes (jacket, gloves, scarf).
+- You won’t buy clothes right after arriving — buy now, but **don’t overpack**.
+- Use **vacuum bags** to save space, and invest in a **good suitcase**.
+
+---
+
+## 💰 4. Financial Planning
+
+### 📦 4.1. Smart Spending
+
+- Buy only what’s **necessary and useful** in France.
+- Prioritize spending on essentials that will save money later.
+
+### 📱 4.2. Phone & SIM Card
+
+- If possible, get a **second phone** with **eSIM and NFC**.
+- Bring **two chargers**.
+- Order a **French SIM card** before arriving (Bouygues, Free, etc.).
+    - Avoid Lebara and Lyca — they’re banned by many banks.
+- Don’t activate the eSIM before arriving — use airport Wi-Fi to set it up.
+
+---
+
+## 🗃️ 5. Administrative Preparation
+
+### 🗂️ 5.1. Documents
+
+- Prepare and organize **all your documents** (ID, certificates, visas, etc.).
+- Keep **digital and paper copies** in order.
+
+### 🚇 5.2. Transport Pass (Navigo Imagine R)
+
+- Subscribe to **Navigo Imagine R** (student transport card) **1 month before arrival**.
+- Two options:
+    1. Send it to someone who’ll hand it to you at the airport.
+    2. Let the card fail delivery and pick it up yourself from a sales point after arrival.
+---
+
+## ✈️ 6. Plane Ticket
+
+- **Book your flight early** — tickets run out fast.
+- Choose a **day/time when someone is free to meet you**.
+- Ticket price: ~20,000 DZD (Air Algérie, using Dahabia card).
+
+---
+
+## 🗓️ 7. Personal Organization
+
+- Make **checklists** for everything.
+- Sort your belongings: what to take, what to leave.
+- **Pack your suitcase one week in advance** — you’ll catch forgotten items and reduce departure stress.
+
+---

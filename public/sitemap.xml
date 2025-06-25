@@ -4,10 +4,10 @@
     <loc>https://example.org/categories/index.html</loc>
   </url>
   <url>
-    <loc>https://example.org/posts/preparation-for-the-trip/index.html</loc>
+    <loc>https://example.org/posts/index.html</loc>
   </url>
   <url>
-    <loc>https://example.org/posts/index.html</loc>
+    <loc>https://example.org/posts/preparation-for-the-trip/index.html</loc>
   </url>
   <url>
     <loc>https://example.org/tags/index.html</loc>
