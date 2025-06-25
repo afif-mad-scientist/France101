@@ -3,7 +3,7 @@ title: Preparation for the trip
 date: 2025-06-22
 ---
 
->[!INFO] + Table of Contents
+>[!INFO]+ Table of Contents
 >    - [Why you should prepare ?]({{< ref "Preparation for the trip#why-you-should-prepare-?" >}})
 >    - [Mental & Emotional Preparation]({{< ref "Preparation for the trip#mental-&-emotional-preparation" >}})
 >        - [Why Self-Confidence is Critical? ]({{< ref "Preparation for the trip#why-self-confidence-is-critical?-" >}})
