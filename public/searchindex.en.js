@@ -13,7 +13,7 @@ var relearn_searchindex = [
     "description": "Table of Contents\rWhy you should prepare ? Mental \u0026 Emotional Preparation Why Self-Confidence is Critical? Preparation Physical Preparation Clothing Financial Planning Financial Planning Administration 1st way 2nd way Plane ticket Organisation TL;DR 🧭 1. Why You Must Prepare 🧠 2. Mental \u0026 Emotional Preparation ✅ 2.1. Build Self-Confidence 🌍 2.2. Expect Cultural Shock 🧩 2.3. Social Life: The Maze 🧱 2.4. Accept Responsibility 🛑 2.5. Be Wise and Cautious 🧕 2.6. Be Ready for Discrimination 🧭 2.7. Protect Your Values 💪 3. Physical Preparation 🏥 3.1. Health 🧣 3.2. Clothing 💰 4. Financial Planning 📦 4.1. Smart Spending 📱 4.2. Phone \u0026 SIM Card 🗃️ 5. Administrative Preparation 🗂️ 5.1. Documents 🚇 5.2. Transport Pass (Navigo Imagine R) ✈️ 6. Plane Ticket 🗓️ 7. Personal Organization Before arriving to France you need to prepare for your arrival, this will make your integration here easier. Getting ready mentally, physically, financially, and administratively is something you shouldn’t skip or ignore.",
     "tags": [],
     "title": "Preparation for the trip",
-    "uri": "/posts/preparation-for-the-trip/index.html"
+    "uri": "/posts/preparation-for-the-trip-1/index.html"
   },
   {
     "breadcrumb": "France 101",
