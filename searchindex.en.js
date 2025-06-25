@@ -4,14 +4,6 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Logs",
-    "uri": "/log/index.html"
-  },
-  {
-    "breadcrumb": "France 101",
-    "content": "",
-    "description": "",
-    "tags": [],
     "title": "Categories",
     "uri": "/categories/index.html"
   },
