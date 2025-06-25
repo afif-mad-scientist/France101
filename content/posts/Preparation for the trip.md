@@ -1,3 +1,15 @@
+---
+date created: Saturday, February 11th 2023, 2:21:17 pm
+date modified: Monday, February 13th 2023, 3:19:43 pm
+title: My title
+cssclasses:
+  - wide-page
+banner: "https://mir-s3-cdn-cf.behance.net/project_modules/fs/7e3d5e81488145.5d050548d72a7.jpg"
+banner_x: 0.5
+banner_y: 0.34
+banner_lock: true
+---
+
 Before arriving to France you need to prepare for your arrival, this will make your integration here easier. Getting ready mentally, physically, financially, and administratively is something you shouldn't skip or ignore. 
 
 I tried to to summarize the important things for you, to help you figure out where to start in this preparation. You may notice that I insisted and put a lot of effort into the mental and emotional preparation, this is because it is really important and you should focus on it, without it you wont be able to do the rest. 
