@@ -4,16 +4,16 @@ var relearn_searchindex = [
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Categories",
-    "uri": "/categories/index.html"
+    "title": "Logs",
+    "uri": "/log/index.html"
   },
   {
-    "breadcrumb": "",
+    "breadcrumb": "France 101",
     "content": "",
     "description": "",
     "tags": [],
-    "title": "France 101",
-    "uri": "/index.html"
+    "title": "Categories",
+    "uri": "/categories/index.html"
   },
   {
     "breadcrumb": "France 101",
