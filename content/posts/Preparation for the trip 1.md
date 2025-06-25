@@ -4,9 +4,9 @@ date: 2025-06-22
 ---
 
 >[!SUMMARY] Table of Contents
->    - [Why you should prepare ?]({{< ref "Preparation for the trip 1#why-you-should-prepare-?" >}})
->    - [Mental & Emotional Preparation]({{< ref "Preparation for the trip 1#mental-&-emotional-preparation" >}})
->        - [Why Self-Confidence is Critical? ]({{< ref "Preparation for the trip 1#why-self-confidence-is-critical?" >}})
+>    - [Why you should prepare ?]({{< ref "Preparation for the trip 1#why-you-should-prepare-" >}})
+>    - [Mental & Emotional Preparation]({{< ref "Preparation for the trip 1#mental--emotional-preparation" >}})
+>        - [Why Self-Confidence is Critical? ]({{< ref "Preparation for the trip 1#why-self-confidence-is-critical" >}})
 >        - [Preparation]({{< ref "Preparation for the trip 1#preparation" >}})
 >    - [Physical Preparation]({{< ref "Preparation for the trip 1#physical-preparation" >}})
 >    - [Clothing]({{< ref "Preparation for the trip 1#clothing" >}})
@@ -17,27 +17,27 @@ date: 2025-06-22
 >        - [2nd way]({{< ref "Preparation for the trip 1#2nd-way" >}})
 >    - [Plane ticket]({{< ref "Preparation for the trip 1#plane-ticket" >}})
 >    - [Organisation]({{< ref "Preparation for the trip 1#organisation" >}})
->- [TL;DR]({{< ref "Preparation for the trip 1#tl;dr" >}})
->    - [🧭 1. Why You Must Prepare]({{< ref "Preparation for the trip 1#🧭-1.-why-you-must-prepare" >}})
->    - [🧠 2. Mental & Emotional Preparation]({{< ref "Preparation for the trip 1#🧠-2.-mental-&-emotional-preparation" >}})
->        - [✅ 2.1. Build Self-Confidence]({{< ref "Preparation for the trip 1#✅-2.1.-build-self-confidence" >}})
->        - [🌍 2.2. Expect Cultural Shock]({{< ref "Preparation for the trip 1#🌍-2.2.-expect-cultural-shock" >}})
->        - [🧩 2.3. Social Life: The Maze]({{< ref "Preparation for the trip 1#🧩-2.3.-social-life:-the-maze" >}})
->        - [🧱 2.4. Accept Responsibility]({{< ref "Preparation for the trip 1#🧱-2.4.-accept-responsibility" >}})
->        - [🛑 2.5. Be Wise and Cautious]({{< ref "Preparation for the trip 1#🛑-2.5.-be-wise-and-cautious" >}})
->        - [🧕 2.6. Be Ready for Discrimination]({{< ref "Preparation for the trip 1#🧕-2.6.-be-ready-for-discrimination" >}})
->        - [🧭 2.7. Protect Your Values]({{< ref "Preparation for the trip 1#🧭-2.7.-protect-your-values" >}})
->    - [💪 3. Physical Preparation]({{< ref "Preparation for the trip 1#💪-3.-physical-preparation" >}})
->        - [🏥 3.1. Health]({{< ref "Preparation for the trip 1#🏥-3.1.-health" >}})
->        - [🧣 3.2. Clothing]({{< ref "Preparation for the trip 1#🧣-3.2.-clothing" >}})
->    - [💰 4. Financial Planning]({{< ref "Preparation for the trip 1#💰-4.-financial-planning" >}})
->        - [📦 4.1. Smart Spending]({{< ref "Preparation for the trip 1#📦-4.1.-smart-spending" >}})
->        - [📱 4.2. Phone & SIM Card]({{< ref "Preparation for the trip 1#📱-4.2.-phone-&-sim-card" >}})
->    - [🗃️ 5. Administrative Preparation]({{< ref "Preparation for the trip 1#🗃️-5.-administrative-preparation" >}})
->        - [🗂️ 5.1. Documents]({{< ref "Preparation for the trip 1#🗂️-5.1.-documents" >}})
->        - [🚇 5.2. Transport Pass (Navigo Imagine R)]({{< ref "Preparation for the trip 1#🚇-5.2.-transport-pass-(navigo-imagine-r)" >}})
->    - [✈️ 6. Plane Ticket]({{< ref "Preparation for the trip 1#✈️-6.-plane-ticket" >}})
->    - [🗓️ 7. Personal Organization]({{< ref "Preparation for the trip 1#🗓️-7.-personal-organization" >}})
+>- [TL;DR]({{< ref "Preparation for the trip 1#tldr" >}})
+>    - [🧭 1. Why You Must Prepare]({{< ref "Preparation for the trip 1#-1-why-you-must-prepare" >}})
+>    - [🧠 2. Mental & Emotional Preparation]({{< ref "Preparation for the trip 1#-2-mental--emotional-preparation" >}})
+>        - [✅ 2.1. Build Self-Confidence]({{< ref "Preparation for the trip 1#-21.-build-self-confidence" >}})
+>        - [🌍 2.2. Expect Cultural Shock]({{< ref "Preparation for the trip 1#-22-expect-cultural-shock" >}})
+>        - [🧩 2.3. Social Life: The Maze]({{< ref "Preparation for the trip 1#-23-social-life-the-maze" >}})
+>        - [🧱 2.4. Accept Responsibility]({{< ref "Preparation for the trip 1#-24-accept-responsibility" >}})
+>        - [🛑 2.5. Be Wise and Cautious]({{< ref "Preparation for the trip 1#-25-be-wise-and-cautious" >}})
+>        - [🧕 2.6. Be Ready for Discrimination]({{< ref "Preparation for the trip 1#-26-be-ready-for-discrimination" >}})
+>        - [🧭 2. 7. Protect Your Values]({{< ref "Preparation for the trip 1#-27-protect-your-values" >}})
+>    - [💪 3. Physical Preparation]({{< ref "Preparation for the trip 1#-3-physical-preparation" >}})
+>        - [🏥 3.1. Health]({{< ref "Preparation for the trip 1#-31-health" >}})
+>        - [🧣 3.2. Clothing]({{< ref "Preparation for the trip 1#-32-clothing" >}})
+>    - [💰 4. Financial Planning]({{< ref "Preparation for the trip 1#-4-financial-planning" >}})
+>        - [📦 4.1. Smart Spending]({{< ref "Preparation for the trip 1#-41-smart-spending" >}})
+>        - [📱 4.2. Phone & SIM Card]({{< ref "Preparation for the trip 1#-42-phone-&-sim-card" >}})
+>    - [🗃️ 5. Administrative Preparation]({{< ref "Preparation for the trip 1#-5-administrative-preparation" >}})
+>        - [🗂️ 5.1. Documents]({{< ref "Preparation for the trip 1#-51-documents" >}})
+>        - [🚇 5.2. Transport Pass (Navigo Imagine R)]({{< ref "Preparation for the trip 1#-52.-transport-pass-navigo-imagine-r" >}})
+>    - [✈️ 6. Plane Ticket]({{< ref "Preparation for the trip 1#-6-plane-ticket" >}})
+>    - [🗓️ 7. Personal Organization]({{< ref "Preparation for the trip 1#-7-personal-organization" >}})
 
 Before arriving to France you need to prepare for your arrival, this will make your integration here easier. Getting ready mentally, physically, financially, and administratively is something you shouldn't skip or ignore. 
 
@@ -104,7 +104,7 @@ In this period, be careful, if you dont plan it well, you will find yourself spe
 >[!TIP] A good rule of thumb
 >Make in your mind that you gonna leave your home in just two months, so if you gonna buy something and you gonna leave it, than there is no need to buy it
 
-## Financial Planning
+## Tech & Tools
 An important thing I advice you to do as well, if you can of course, is to buy a new phone as a second phone, and in the best cases the phone should have NFC and eSIM. It's really important because as you know, your phone can stop working at anytime. And I said as a second phone, because I see it that it isn't enough to test the new phone in such a small period of time, so it is better to take both. 
 
 Make sure as well to have two chargers, in case you lose yours. so you wont get stuck. 
@@ -130,7 +130,7 @@ In case you got a phone that has eSIM in it, make sure to choose an offer from `
 Just bare in mind to not try to turn it on while you are in Algeria or you will be charged a lot. You can use the aeroport wifi to turn it on when you arrive
 
 
-## Administration
+## Administrative Preparation
 Prepare all your documents that you have, you should take everything with you. 
 
 In Paris you should have subscription for public transport, for Student <26yo you pay only 40euro/month it is called Navigo ImagineR. The process of having the card take some time, so there is two ways to not spend a lot of money for your first day in paris. In both cases you will need to make your subscription **1 month** before you go to paris. [click here to know how]
@@ -153,7 +153,7 @@ The plane ticket is something you buy now because you will have no ticket left i
 
 The plane ticket One way to paris is around 20 000 dzd, no need to pay more for just a day or two in advance. you can buy the ticket in AirAlgerie website, using Dahabia.
 
-## Organisation
+## Organization
 Start planning your departure from now, make check lists, to not forget anything. 
 Organise your files, your clothes, your stuff in sections, put aside everything you not planing to take. 
 A precious advice, prepare your suitcase a week before you go, you will thank me later. because while doing so, you will realise that you forgot things, and you will avoid a huge stress the day of departure. (I wish i did that)
