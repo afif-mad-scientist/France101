@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My title</title>
+      <link>https://example.org/posts/preparation-for-the-trip/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/preparation-for-the-trip/index.html</guid>
+      <description>Before arriving to France you need to prepare for your arrival, this will make your integration here easier. Getting ready mentally, physically, financially, and administratively is something you shouldn’t skip or ignore.&#xA;I tried to to summarize the important things for you, to help you figure out where to start in this preparation. You may notice that I insisted and put a lot of effort into the mental and emotional preparation, this is because it is really important and you should focus on it, without it you wont be able to do the rest.</description>
+    </item>
   </channel>
 </rss>
